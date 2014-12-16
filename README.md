@@ -1,4 +1,4 @@
 xmas2014
 ========
 
-xmas card 2014
+Just open the html file in your browser. 
